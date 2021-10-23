@@ -1,2 +1,2 @@
 # calculated
-https://theshariful.github.io/calculated/
+ https://mohammadshariful.github.io/calculated/
